@@ -43,8 +43,6 @@ function coincidencias(frase, palabra){
         let palabras = texto_limpio.split(" ");
         //mapear: guardar json
 
-       
-
         let mapa = {};
 
         for(let palabra of palabras){
